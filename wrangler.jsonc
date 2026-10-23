@@ -12,7 +12,7 @@
   "KEY_MODE": "server",
   "SUMMARY_MODEL": "deepseek-flash",
   "CF_ACCESS_TEAM_DOMAIN": "dahaizahuopu.cloudflareaccess.com",
-  "CF_ACCESS_AUD": "a4fafefe-c66c-49d3-bcc7-d0e68f6f24a0"
+  "CF_ACCESS_AUD": "1342eeed-ee62-4802-966e-a7ed360489d7"
 },
   "ratelimits": [
     { "name": "API_LIMITER", "namespace_id": "1001", "simple": { "limit": 30, "period": 60 } },
